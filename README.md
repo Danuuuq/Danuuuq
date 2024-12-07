@@ -18,6 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django Rest Framework" alt="Django Rest Framework" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="80" height="80"/>&nbsp;
 </div>
 
 <!--
