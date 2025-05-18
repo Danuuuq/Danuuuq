@@ -10,17 +10,17 @@
 ## Мои навыки:
 
 
-<div align="right">
+<div align="left">
   <h3>🧠 Языки программирования и библиотеки</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python3" width="80" height="80"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;    
-    <img src="https://scrapy.org/img/scrapy-pros.png" title="Scrapy" alt="Scrapy" width="80" height="80"/>&nbsp;    
-    <img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" title="Aiogram 3.0" alt="Aiogram 3.0" width="80" height="80"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3.11" alt="Python" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas 2.x" alt="Pandas" width="80" height="80"/>
+    <img src="https://scrapy.org/img/scrapy-pros.png" title="Scrapy 2.11" alt="Scrapy" width="80" height="80"/>
+    <img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" title="Aiogram 3.0" alt="Aiogram" width="80" height="80"/>
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>⚙️ Бэкенд и фреймворки</h3>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django 4.x" alt="Django" width="80" height="80"/>    
@@ -30,7 +30,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <h3>🗄️ Базы данных</h3>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL 15" alt="PostgreSQL" width="80" height="80"/>    
@@ -38,8 +38,7 @@
   </p>
 </div>
 
-<!-- 🐳 DevOps и окружение -->
-<div align="center">
+<div align="left">
   <h3>🐳 DevOps и окружение</h3>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker 26.x" alt="Docker" width="80" height="80"/>    
