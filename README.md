@@ -37,12 +37,9 @@
 <div align="center">
   <h3>⚙️ Бэкенд и фреймворки</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django 4.x" alt="Django" width="80" height="80"/>
-    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework 3.14" alt="DRF" width="80" height="80"/>
-    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI 0.110+" alt="FastAPI" width="80" height="80"/>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django 4.x" alt="Django" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework 3.14" alt="DRF" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI 0.110+" alt="FastAPI" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask 2.x" alt="Flask" width="80" height="80"/>
   </p>
 </div>
@@ -50,8 +47,7 @@
 <div align="center">
   <h3>🗄️ Базы данных</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL 15" alt="PostgreSQL" width="80" height="80"/>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL 15" alt="PostgreSQL" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite 3" alt="SQLite" width="80" height="80"/>
   </p>
 </div>
@@ -60,8 +56,7 @@
 <div align="center">
   <h3>🐳 DevOps и окружение</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker 26.x" alt="Docker" width="80" height="80"/>
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker 26.x" alt="Docker" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (Ubuntu, Debian)" alt="Linux" width="80" height="80"/>
   </p>
 </div>
