@@ -28,11 +28,8 @@
   <h3>🧠 Языки программирования и библиотеки</h3>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python3" alt="Python3" width="80" height="80"/>&nbsp;
-    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
-    
-    <img src="https://scrapy.org/img/scrapy-pros.png" title="Scrapy" alt="Scrapy" width="80" height="80"/>&nbsp;
-    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;    
+    <img src="https://scrapy.org/img/scrapy-pros.png" title="Scrapy" alt="Scrapy" width="80" height="80"/>&nbsp;    
     <img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" title="Aiogram 3.0" alt="Aiogram 3.0" width="80" height="80"/>&nbsp;
   </p>
 </div>
