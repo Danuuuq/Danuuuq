@@ -35,6 +35,7 @@
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL 15" alt="PostgreSQL" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite 3" alt="SQLite" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy 2" alt="SQLAlchemy" width="80" height="80"/>
   </p>
 </div>
 
