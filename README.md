@@ -56,6 +56,7 @@
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker 26.x" alt="Docker" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (Ubuntu, Debian)" alt="Linux" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="80"/>
   </p>
 </div>
 
