@@ -74,7 +74,8 @@
 <div align="left">
   <h3>🧠 Языки программирования, библиотеки и инструменты</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3.11" alt="Python" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3.11" alt="Python" width="80" height="80"/> 
+    <img src="https://docs.aiohttp.org/en/stable/_static/aiohttp-plain.svg" title="AIOHTTP" alt="AIOHTTP" width="80" height="80"/>    
     <img src="https://www.scrapy.org/favicon/scrapy-favicon.svg" title="Scrapy 2.11" alt="Scrapy" width="80" height="80"/>
     <img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" title="Aiogram 3.0" alt="Aiogram" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="80" height="80"/>
@@ -85,10 +86,10 @@
 <div align="left">
   <h3>⚙️ Бэкенд и фреймворки</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django 4.x" alt="Django" width="80" height="80"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework 3.14" alt="DRF" width="80" height="80"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI 0.110+" alt="FastAPI" width="80" height="80"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask 2.x" alt="Flask" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django 5.x" alt="Django" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework" alt="DRF" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="80" height="80"/>
   </p>
 </div>
 
