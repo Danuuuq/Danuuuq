@@ -72,12 +72,13 @@
 ## Мои навыки:
 
 <div align="left">
-  <h3>🧠 Языки программирования и библиотеки</h3>
+  <h3>🧠 Языки программирования, библиотеки и инструменты</h3>
   <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3.11" alt="Python" width="80" height="80"/>    
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas 2.x" alt="Pandas" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python 3.11" alt="Python" width="80" height="80"/>
     <img src="https://www.scrapy.org/favicon/scrapy-favicon.svg" title="Scrapy 2.11" alt="Scrapy" width="80" height="80"/>
     <img src="https://docs.aiogram.dev/en/v3.20.0.post0/_static/logo.png" title="Aiogram 3.0" alt="Aiogram" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="80" height="80"/>
   </p>
 </div>
 
@@ -88,6 +89,16 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/djangorest/djangorest-original.svg" title="Django REST Framework 3.14" alt="DRF" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI 0.110+" alt="FastAPI" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask 2.x" alt="Flask" width="80" height="80"/>
+  </p>
+</div>
+
+<div align="left">
+  <h3>🗄️ Анализ данных</h3>
+  <p>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas 2.x" alt="Pandas" width="80" height="80"/>  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" alt="Scikit-Learn" width="80" height="80"/>
   </p>
 </div>
 
@@ -106,6 +117,15 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker 26.x" alt="Docker" width="80" height="80"/>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux (Ubuntu, Debian)" alt="Linux" width="80" height="80"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="80" height="80"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original.svg" title="GitHub Action" alt="GitHub Action" width="80" height="80"/>
+  </p>
+</div>
+
+<div align="left">
+  <h3>👥 Взаимодействие с командой</h3>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="80" height="80"/>    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="80" height="80"/>
   </p>
 </div>
 
