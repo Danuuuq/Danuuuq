@@ -93,7 +93,7 @@
 </div>
 
 <div align="left">
-  <h3>🗄️ Анализ данных</h3>
+  <h3>📊 Анализ данных</h3>
   <p>    
     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas 2.x" alt="Pandas" width="80" height="80"/>  
     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="80" height="80"/>
